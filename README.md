@@ -1,5 +1,7 @@
 # Shisheng RQB Project
 
+shisheng这么可爱，让我们一起让她成为RBQ吧！
+
 ## 如何加入？
 
 1. 将域名添加"shishengrbq"解析
@@ -13,30 +15,6 @@
 
 [shishengrbq.m200.best](http://shishengrbq.m200.best)
 
-[shishengrbq.bililibiliqx.com](http://shishengrbq.bililibiliqx.com)
-
-[shishengrbq.米忽悠.top](http://shishengrbq.米忽悠.top)
-
-[shishengrbq.米忽悠.cn](http://shishengrbq.米忽悠.cn)
-
-[shishengrbq.thatskygame.com.cn](http://shishengrbq.thatskygame.com.cn)
-
-[shishengrbq.thatskygame.top](http://shishengrbq.thatskygame.top)
-
-[shishengrbq.thatskygame.cn](http://shishengrbq.thatskygame.cn)
-
-[shishengrbq.xsky.top](http://shishengrbq.xsky.top)
-
-[shishengrbq.qxqxx.top](http://shishengrbq.qxqxx.top)
-
 [shishengrbq.skyqx.top](http://shishengrbq.skyqx.top)
-
-[shishengrbq.bilibililove.com](http://shishengrbq.bilibililove.com)
-
-[shishengrbq.bilibililove.cn](http://shishengrbq.bilibililove.cn)
-
-[shishengrbq.bililibiliqx.cn](http://shishengrbq.bililibiliqx.cn)
-
-[shishengrbq.qxqxx.club](http://shishengrbq.qxqxx.club)
 
 [shishengrbq.misaliu.top](http://shishengrbq.misaliu.top)
