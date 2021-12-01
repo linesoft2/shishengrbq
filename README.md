@@ -6,6 +6,7 @@ shisheng这么可爱，让我们一起让她成为RBQ吧！
 
 1. 将域名添加"shishengrbq"解析
 2. 并将其解析至r4.linesoft.top **或**  跳转至[shishengrbq.linesoft.top](http://shishengrbq.linesoft.top)
+3. 提交Pull Requset，将域名添加至下方
 
 ## 当前已加入本项目的网站
 
