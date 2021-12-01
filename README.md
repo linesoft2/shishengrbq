@@ -1,4 +1,4 @@
-# Shisheng RQB Project
+# Shisheng RBQ Project
 
 shisheng这么可爱，让我们一起让她成为RBQ吧！
 
